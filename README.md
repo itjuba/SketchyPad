@@ -1,4 +1,7 @@
-# Test
+# SketchyPad 
+
+
+A skribbl clone , build with Elixir & JQuery 
 
 To start your Phoenix server:
 
