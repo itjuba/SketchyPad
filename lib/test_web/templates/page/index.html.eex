@@ -1,0 +1,10 @@
+<section class="phx-hero">
+  <h1><%= gettext "Welcome to Sketchy Pad"%></h1>
+  <p>Peace of mind from prototype to production</p>
+</section>
+<canvas  id="myCanvas" width="750" height="300" >Your browser does not support the HTML5 canvas tag.</canvas>
+<input id="chat-input" type="text"></input>
+<section class="row">
+
+
+</section>
