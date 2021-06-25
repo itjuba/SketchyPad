@@ -5,7 +5,7 @@
 --> Room chat
 --> Shared drawboard
 
-A skribbl clone , build with Elixir & JQuery 
+A skribbl clone , built with Elixir & JQuery 
 
 To start your Phoenix server:
 
