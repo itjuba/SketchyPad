@@ -1,7 +1,7 @@
 # SketchyPad 
 
 - Version 1.0 has the following features : 
-- 
+
 --> Multiple rooms
 
 --> Chat rooms
