@@ -1,6 +1,6 @@
 # SketchyPad 
 
-A skribbl clone , built with Elixir phoenix & JQuery 
+A skribbl clone , built with Elixir Phoenix & JQuery 
 
 Version 1.0 has the following features : 
 
