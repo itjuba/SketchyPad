@@ -1,9 +1,12 @@
 # SketchyPad 
 
 - Version 1.0 has the following features : 
---> Multiple rooms 
---> Room chat
+--> Multiple rooms
+
+--> Chat rooms
+
 --> Shared drawboard
+
 
 A skribbl clone , built with Elixir & JQuery 
 
