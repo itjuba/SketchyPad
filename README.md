@@ -1,6 +1,8 @@
 # SketchyPad 
 
-- Version 1.0 has the following features : 
+A skribbl clone , built with Elixir phoenix & JQuery 
+
+Version 1.0 has the following features : 
 
 --> Multiple rooms
 
@@ -8,8 +10,6 @@
 
 --> Shared drawboard
 
-
-A skribbl clone , built with Elixir & JQuery 
 
 To start your Phoenix server:
 
