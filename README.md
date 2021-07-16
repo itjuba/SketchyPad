@@ -1,6 +1,5 @@
 
 
-https://user-images.githubusercontent.com/49757658/125995437-62e0fdf5-d2bc-4a5c-be1c-3f12e65ea7da.mp4
 
 # SketchyPad 
 
